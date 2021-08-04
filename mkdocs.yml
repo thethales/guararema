@@ -4,6 +4,8 @@ theme:
   name: material
   logo: img/logo_white.png
   favicon: img/favicon.ico
+  features:
+    - navigation.top
 docs_dir: src
 site_dir: docs
 extra:
@@ -15,3 +17,6 @@ extra:
     - icon: fontawesome/brands/behance
       link: https://www.behance.net/thalessilva
 copyright: GNU GENERAL PUBLIC LICENSE
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
