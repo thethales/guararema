@@ -1,0 +1,17 @@
+site_name: Guararema - Um guia colaborativo
+theme: 
+  language: pt
+  name: material
+  logo: img/logo_white.png
+  favicon: img/favicon.ico
+docs_dir: src
+site_dir: docs
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/umThalesAqui
+    - icon: fontawesome/brands/github
+      link: https://github.com/thethales/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/thalessilva
+copyright: GNU GENERAL PUBLIC LICENSE
