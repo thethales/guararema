@@ -77,4 +77,46 @@ Data da Experiência: Julho 2021
 Através do  [Serviços Online aos Cidadãos](http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/portal/index.php), 
 acesse este [link](http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/arrecadacao/2via/index.php), preencha os dados e clique em consultar.
 
+---
+### Como agendar visita presencial ao DETRAN de Guararema ? 
+
+Data da Experiência: Agosto 2021
+
+*Introdução*
+
+Devido a Pandemia de COVID-19, o DETRAN passou a operar com horário marcado. A unidade de Guararema apesar de informar em cartazes sobre o novo modelo de atendimento, erroneamente direciona o cidadão para o site do próprio DETRAN para realizar o agendamento. Entretanto, atualmente não é possível efetuar agendamento de visita presencial através do site da instituição. Isso só pode ser feito através do [PoupaTempo](https://www.poupatempo.sp.gov.br/).
+
+*Aonde ?*
+
+- Online através do site do [PoupaTempo](https://www.poupatempo.sp.gov.br/)
+
+*Do que precisa ?*
+
+- Apenas um cadastro no site do PoupaTempo, entretanto os serviços do DETRAN poderão pedir documentos a parte durante sua visita.
+- Marcação com um dia de antecedência. Isso significa dizer, que eles não permitem o agendamento para o mesmo dia corrente. Exemplo: se hoje é Segunda-feira, as horas liberadas para agendamento são a partir de Terça-Feira.
+
+*Custo*
+
+- Nenhum, a utilização do PoupaTempo para agendamento é gratuita.
+
+*Como?*
+
+
+1. Crie um cadastro no [PoupaTempo](https://www.poupatempo.sp.gov.br/) ou acesse o site com seu cadastro pré existente.
+2. No canto superior direito da tela clique no menu ```Serviços``` 
+3. Na página que foi exibida, são mostrados vários grupos de serviços separador por nomes. Procure pelo grupo de serviços de nome ```CNH - CARTEIRA NACIONAL DE HABILITAÇÃO```. 
+4. Neste grupo clique no botão ```Demais Serviços da CNH```. Uma lista com diversos itens será aberta. ![Demais Serviços](ilustracoes\detran\1.png)
+5. Nesta lista, clique no último item, chamado de ```Outros serviços da CNH```. ![Outros serviços da CNH](ilustracoes\detran\2.png)
+6. Será mostrada uma mensagem de aviso de que existem serviços online disponíveis. Selecione ao invés, a opção de visita presencial clicando na frase ```clique aqui``` conforme a figura abaixo: ![Mensagem de Aviso](ilustracoes\detran\3.png)
+7. Será exibida uma segunda mensagem de aviso, desta vez, pedindo sua confirmação de que a visita é urgente. Clique no botão ```Sim, Tenho Urgência``` (Caso não possa aguardar) ![Mensagem de aviso de urgência e cuidado](ilustracoes\detran\4.png)
+8. Na próxima etapa, começaremos o agendamento. Para encontrar a unidade de Guararema, selecione a opção de busca por local, clicando no primeiro botão com o ícone de mapa: ![Seleção de unidade DETRAN](ilustracoes\detran\5.png)
+9. Uma lista com todos os DETRANs disponíveis é carregada. Nela, procure por ```DETRAN - Guararema``` e clique nela.![Lista de Unidades do DETRAN](ilustracoes\detran\6.png)
+10. Na próxima etapa, será pedido que escolha a data de agendamento. Selecione uma data e clique em prosseguir. ![Escolha da data de agendamento](ilustracoes\detran\7.png)
+11. Na próxima etapa, será pedido que escolha o horário de visita. Selecione o disponível e clique no botão de prosseguir. ![Escolha da hora de visita](ilustracoes\detran\8.png)
+12. Pronto seu agendamento foi realizado, a página seguinte exibida pelo PoupaTempo, contém um resumo do agendamento e observações dos documentos que precisarão ser levados para cada serviço disponível no Detran. Confirme quais são os seus.
+
+Os agendamentos ficam também disponíveis para visualização no aplicativo para celular. Por lá você também pode cancelar o agendamento.
+
+```Atenção: O site do PoupaTempo pode mudar layout sem prévio aviso do governo e a localização exata apresentada abaixo pode variar um pouco```
+
 
