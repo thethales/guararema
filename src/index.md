@@ -1,3 +1,8 @@
+---
+description: Um guia colaborativo sobre como fazer e contrar as coisas em Guararema São Paulo
+title: Apresentação
+disqus: ""
+---
 # Introdução
 
 ![Apresentação](img/capa.png)

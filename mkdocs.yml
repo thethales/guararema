@@ -1,4 +1,8 @@
 site_name: Guararema - Um guia colaborativo
+site_url: https://thethales.github.io/guararema/
+repo_url: https://github.com/thethales/guararema
+site_description: Um guia colaborativo sobre como fazer e contrar as coisas em Guararema São Paulo
+site_author: thethales
 theme: 
   language: pt
   name: material
@@ -6,9 +10,13 @@ theme:
   favicon: img/favicon.ico
   features:
     - navigation.top
+    - navigation.sections
+    - navigation.tracking
+    - content.code.annotate
 docs_dir: src
 site_dir: docs
 extra:
+  disqus: guararema-um-guia-colaborativo
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/umThalesAqui
@@ -18,5 +26,10 @@ extra:
       link: https://www.behance.net/thalessilva
 copyright: GNU GENERAL PUBLIC LICENSE
 markdown_extensions:
+  - meta
   - toc:
       permalink: ⚓︎
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
