@@ -30,3 +30,6 @@ Basta abrir uma nova sugestão aqui neste link [Github Issue](https://github.com
 ## Licença de uso e observações
 
 O conteúdo deste site é livre e regido por essa licença de uso [GNU GENERAL PUBLIC LICENSE](LICENSE.md). O conteúdo também é fornecido como é, sem garantias, conforme os termos da licença.
+
+[🍪 Alterar suas configurações de cookies](#__consent){ .md-button }
+

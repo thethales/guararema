@@ -24,9 +24,13 @@ extra:
       link: https://github.com/thethales/
     - icon: fontawesome/brands/behance
       link: https://www.behance.net/thalessilva
+  consent:
+    title: Consentimento de Cookies 🍪
+    description: Utilizamos cookies para reconhecer suas repetidas visitas e preferências, bem como para medir a eficácia de nossa documentação e se os usuários encontram o que eles estão procurando. Com seu consentimento, você está nos ajudando a melhorar nossa documentação.
 copyright: GNU GENERAL PUBLIC LICENSE
 markdown_extensions:
   - meta
+  - attr_list
   - toc:
       permalink: ⚓︎
   - admonition
