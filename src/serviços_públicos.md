@@ -119,4 +119,22 @@ Os agendamentos ficam também disponíveis para visualização no aplicativo par
 
 ```Atenção: O site do PoupaTempo pode mudar layout sem prévio aviso do governo e a localização exata apresentada abaixo pode variar um pouco```
 
+*Dados do DETRAN de Guararema*
 
+
+| Endereço| 
+|-----|
+| Rua Dr. Armindo, 71, Centro - Guararema - CEP: 08900-000 | 
+
+Horário de Atendimento Geral
+
+| Dia | Horário | 
+|-----|---------|
+| Segunda: | 09:00 às 17:00 |
+| Terça: | 09:00 às 17:00 |
+| Quarta: | 09:00 às 17:00 |
+| Quinta: | 09:00 às 17:00 |
+| Sexta: | 09:00 às 17:00 |
+| Sabado: | Não atende |
+
+Obs:. Alguns serviços são atendidos em horários especificos. Confira dentro de cada serviço seu respectivo horário de atendimento. Consultando o próprio site do [DETRAN](https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/servicos/ciretran?regiao=interiorGM)
