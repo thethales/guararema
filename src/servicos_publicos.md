@@ -1,5 +1,5 @@
 ---
-description: Guia de procedimentos de serviços publicos localizados em Guararema.
+description: Guia colaborativo de procedimentos de acesso dos cidadãos à serviços publicos prestados em Guararema.
 title: Serviços Públicos
 ---
 
