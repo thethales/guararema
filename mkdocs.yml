@@ -2,7 +2,7 @@ site_name: Guararema - Um guia colaborativo
 site_url: https://thethales.github.io/guararema/
 repo_url: https://github.com/thethales/guararema
 repo_name: thethales/guararema
-edit_uri: /edit/main/
+edit_uri: edit/main/src/
 site_description: Um guia colaborativo sobre como fazer e contrar as coisas em Guararema São Paulo
 site_author: thethales
 theme: 
