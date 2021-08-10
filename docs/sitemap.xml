@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://thethales.github.io/guararema/</loc>
-         <lastmod>2021-08-05</lastmod>
+         <lastmod>2021-08-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thethales.github.io/guararema/onibus/</loc>
+         <lastmod>2021-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thethales.github.io/guararema/servicos_publicos/</loc>
-         <lastmod>2021-08-05</lastmod>
+         <lastmod>2021-08-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
