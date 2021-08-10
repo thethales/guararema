@@ -6,7 +6,10 @@ title: Serviços Públicos
 ## Procedimentos e Serviços Públicos
 
 --- 
-### Como solicitar rebaixamento de guia ?
+### Rebaixamento de Guia
+
+Como solicitar rebaixamento de guia ?
+
 
 :material-calendar: Data da Experiência: Julho 2021
 
@@ -34,7 +37,9 @@ Com as cópias dos documentos em mãos e o documento preenchido e assinado, o pr
 O cidadão irá receber um documento de protocolo. O andamento da solicitação poderá ser acompanhado por meio de portal eletrônico através deste [link](http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/administrativo/gpro/protocolo_consulta.php). Para saber como consultar protocolos veja: [Como consultar protocolo da Prefeitura de Guararema ?](#como-consultar-protocolo-da-prefeitura-de-guararema-)
 
 ---
-### Como consultar protocolo da Prefeitura de Guararema ?
+### Consultar Protocolo
+
+Como consultar protocolo da Prefeitura de Guararema ?
 
 :material-calendar: Data da Experiência: Julho 2021
 
@@ -59,7 +64,9 @@ Clique neste [link](http://portal.guararema.sp.gov.br/pmguararema/websis/siapego
 3. Clique em Pesquisar
 
 ---
-### Como emitir segunda via de IPTU ? 
+### Emitir 2ª via de IPTU 
+
+Como emitir segunda via de IPTU ?
 
 :material-calendar: Data da Experiência: Julho 2021
 
@@ -82,7 +89,10 @@ Através do  [Serviços Online aos Cidadãos](http://portal.guararema.sp.gov.br/
 acesse este [link](http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/arrecadacao/2via/index.php), preencha os dados e clique em consultar.
 
 ---
-### Como agendar visita presencial ao DETRAN de Guararema ? 
+### Agendar Visita DETRAN 
+
+
+Como agendar visita presencial ao DETRAN de Guararema ? 
 
 :material-calendar: Data da Experiência
  
