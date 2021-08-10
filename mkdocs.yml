@@ -35,6 +35,7 @@ copyright: GNU GENERAL PUBLIC LICENSE
 markdown_extensions:
   - meta
   - attr_list
+  - footnotes
   - toc:
       permalink: ⚓︎
   - admonition

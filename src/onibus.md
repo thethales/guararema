@@ -12,18 +12,29 @@ title: Ônibus
 
 ## :material-bus-stop: Guararema → Mogi das Cruzes
 
+
+![Ilustrações Linhas Municipais](ilustracoes\onibus\Linhas_optmized.svg)
+
 - A linha de ônibus para Mogi das Cruzes é operada pela EMTU e pela Viação Jacareí, entretanto é gerenciada pela Viação Jacareí.
 
 - Os itinerários oficiais da Viação Jacareí estão listados em [seu site](https://www.viacaojacarei.com.br/site/itinerarios/) e contém ônibus com ambas as bandeiras da EMTU e da Viação Jacareí.
 
 
 
-### Tarifas
+### :fontawesome-solid-money-bill-alt: Tarifas
 
-#### Viação Jacareí
+#### Formas de Pagamento
 
-As linhas da Viação Jacareí possuem o que é chamado de ```Linha com Seccionamento Tarifário```, isso significa dizer que, são cobrados valores diferentes para cada "cidade" (secção) de parada disponível do percurso. Esse pontos são ilustrados abaixo, e começam em Jacareí terminando em Mogi das Cruzes. É importante notar que existem diversas paradas dentro dessas secções (pontos de ônibus), o leitor porderá descer em diversos dos pontos disponíveis dentro da mesma secção tarifária, entretanto terá de pagar o valor daquela secção.
-```Por exemplo, se o leitor for descer em São Silvestre pagará um pouco menos do que se for descer em Jacareí. Por isso é interessante se programar.```
+São aceitos:
+
+- Dinheiro
+- Cartão eletrônico *ValeViaj*[^2]
+[^2]: O ValeViaj é um cartão eletrônico próprio da Viação Jacareí e é utilizado nas catracas. Veja mais informações neste [PDF da Viação](http://www.viacaojacarei.com.br/site/wp-content/uploads/2019/08/Perguntas-e-Respostas.pdf)
+#### Tarifas da Viação Jacareí
+
+As linhas da Viação Jacareí possuem o que é chamado de ```Linha com Seccionamento Tarifário```, isso significa dizer que, são cobrados valores diferentes para cada "cidade" (secção) de parada disponível do percurso. Esse pontos são ilustrados abaixo, e começam em Jacareí terminando em Mogi das Cruzes. É importante notar que existem diversas paradas dentro dessas secções (pontos de ônibus), o leitor porderá descer em diversos dos pontos disponíveis dentro da mesma secção tarifária, entretanto terá de pagar o valor daquela secção.[^1]
+
+[^1]: Por exemplo, se o leitor for descer em São Silvestre pagará um pouco menos do que se for descer em Jacareí. Por isso é interessante se programar, a fim de pagar a tarifa necessária para cehgar no seu ponto.
 
 ![Exemplos de Seções Tarifárias](ilustracoes\onibus\SeçõesTarifariasOptimized.svg)
 
@@ -38,7 +49,7 @@ Abaixo são listados os valores tarifários atualizados em [31/05/2021](http://w
 | 8015B | Guararema a Mogi das Cruzes     | R$ 5,25 |
 
 
-### Horários
+### :material-clock-time-two: Horários
 
 !!! Informação info
     Os dados apresentados abaixo foram atualizados em [31/05/2021](http://www.viacaojacarei.com.br/site/images/itinerarios/8015-B_02062021.pdf). Para uma versão possívelmente mais atualizada consulte o PDF disponível no site da própria Viação, através deste [link](https://www.viacaojacarei.com.br/site/itinerarios/)
@@ -100,12 +111,12 @@ Estes são horários da ```Linha 8015B```, o ônibus said de Mogi das Cruzes com
 
 ``` Ainda não obtivemos informações sobre essa linha da EMTU, por enquanto, procure o Site da empresa ou o Google Maps```
 
-### Identificando os Ônibus
+### :material-bus-stop-covered: Identificando os Ônibus
 
 O destino final é localizado no letreiro frontal do veículo e logo abaixo há um segundo letreiro com identificação da tarifa e da *Via*. 
 
 
-![Identificação Frontal](ilustracoes\onibus\onibus_identificacao.png)
+![Identificação Frontal](ilustracoes\onibus\OnibusFrenteIlustração_optmized.svg)
 
 Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 
