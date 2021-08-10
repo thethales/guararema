@@ -113,7 +113,7 @@ Estes são horários da ```Linha 8015B```, o ônibus said de Mogi das Cruzes com
 
 ``` Ainda não obtivemos informações sobre essa linha da EMTU, por enquanto, procure o Site da empresa ou o Google Maps```
 
-### :material-bus-stop-covered: Identificando os Ônibus
+### :octicons-info-16: Identificando os Ônibus
 
 O destino final é localizado no letreiro frontal do veículo e logo abaixo há um segundo letreiro com identificação da tarifa e da *Via*. 
 
@@ -130,8 +130,30 @@ Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 !!! Nota info
     Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
 
+### :material-bus-stop-covered: Aonde Pegar os Ônibus ?
 
-### Atendimento ao Cliente
+#### :material-bus-marker: Guararema
+
+##### :material-bus-stop-uncovered: Ponto da Praça Matriz
+Localizado entre a Igreja Matriz e o [Restaurante Tradição](https://goo.gl/maps/a7G9NayLoJsCEF1k8) (Mesma Calçada) 
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1628624950384!6m8!1m7!1sQcqySxP5GWkOkJ8733-EyA!2m2!1d-23.4125671276389!2d-46.03589846488107!3f203.52887208876973!4f-18.692636333062268!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+##### :material-bus-stop-uncovered: Ponto da Fabiana Flores
+
+Localizado em frente a floricultura [Fabiana Flores](https://goo.gl/maps/y2zRNB6sooAp9h497) (Mesma Calçada) 
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1628632122540!6m8!1m7!1sAhYEbKv7GxoB8_EEW3M5Hw!2m2!1d-23.41372553808493!2d-46.03662416939714!3f18.022868100790514!4f-0.9664174917855348!5f0.8344131555763854" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+##### :material-bus-stop-uncovered: Ponto da Escola Roberto Feijó
+
+Localizado em frente a Escola Roberto Feijó
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1628632411679!6m8!1m7!1sJDPt_VIkJMxZI8xt62_NIg!2m2!1d-23.41296298187232!2d-46.03922685590879!3f15.18417643180885!4f-4.346531780842824!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+### :telephone_receiver: Informações de Contato
 
 Serviço de Atendimento ao Cliente (SAC) da Viação Jacareí e dados de contato:
 
