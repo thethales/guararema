@@ -27,6 +27,8 @@ extra:
   consent:
     title: Consentimento de Cookies 🍪
     description: Utilizamos cookies para reconhecer suas repetidas visitas e preferências, bem como para medir a eficácia de nossa documentação e se os usuários encontram o que eles estão procurando. Com seu consentimento, você está nos ajudando a melhorar nossa documentação.
+extra_javascript:
+  - javascripts/extra.js
 copyright: GNU GENERAL PUBLIC LICENSE
 markdown_extensions:
   - meta
