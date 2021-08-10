@@ -124,7 +124,7 @@ Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 
 |Bandeira|Veículo       |
 |--------|--------------|
-|Viação Jacereí|![Bandeira Viação Jacarei](ilustracoes\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
+|Viação Jacareí|![Bandeira Viação Jacarei](ilustracoes\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
 |EMTU|![Bandeira EMTU](ilustracoes\onibus\onibus_azul.png)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
 
 !!! Nota info
@@ -139,5 +139,5 @@ Serviço de Atendimento ao Cliente (SAC) da Viação Jacareí e dados de contato
 |------|--------|
 |SAC   |0800 701 05 01|
 |Site  |[https://www.viacaojacarei.com.br/](https://www.viacaojacarei.com.br/)|
-|Garangem|(12) 3931-3966|
+|Garagem|(12) 3931-3966|
 
