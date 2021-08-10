@@ -15,6 +15,9 @@ theme:
     - navigation.sections
     - navigation.tracking
     - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - search.share
 docs_dir: src
 site_dir: docs
 extra:
@@ -44,3 +47,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - search:
+      lang: pt
+      prebuild_index: true
