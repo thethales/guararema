@@ -125,7 +125,7 @@ Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 |Bandeira|Veículo       |
 |--------|--------------|
 |Viação Jacareí|![Bandeira Viação Jacarei](ilustracoes\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
-|EMTU|![Bandeira EMTU](ilustracoes\onibus\onibus_azul.png)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
+|EMTU|![Bandeira EMTU](ilustracoes\onibus\onibus_azul.jpeg)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
 
 !!! Nota info
     Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
