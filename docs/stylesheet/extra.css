@@ -16,3 +16,9 @@ tt {
 .time-none {
     background-color:transparent !important;
 }
+
+/*---------*/
+
+.md-button{
+    margin-bottom: 4px;
+}
