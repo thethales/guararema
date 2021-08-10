@@ -12,7 +12,12 @@ Ou ainda entendo as diversas burocracias dos serviços públicos através das ex
 Esta é uma biblioteca construida pela comunidade para a comunidade.
 
 
-## Coisa Úteis
+## Atalhos Úteis
+
+
+!!! Dica hint
+    Os menus laterais e a caixa de pesquisa são uma forma muito eficiente de descobrir o conteúdo desse guia
+
 
 [Como Usar o Guia](sobre/){ .md-button }
 [Horários de Ônibus](onibus/){ .md-button }
