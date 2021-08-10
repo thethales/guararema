@@ -1,5 +1,5 @@
 ---
-description: Horários de ônibus 
+description: Horários de ônibus Municipais e Intermunicipais em Guararema. 
 title: Ônibus
 ---
 
