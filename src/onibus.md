@@ -14,9 +14,30 @@ title: Ônibus
 
 - A linha de ônibus para Mogi das Cruzes é operada pela EMTU e pela Viação Jacareí, entretanto é gerenciada pela Viação Jacareí.
 
-- Os itinerários oficiais da Viação estão listados em [seu site](https://www.viacaojacarei.com.br/site/itinerarios/) e contém ônibus com ambas as bandeiras da EMTU e da Viação Jacareí.
+- Os itinerários oficiais da Viação Jacareí estão listados em [seu site](https://www.viacaojacarei.com.br/site/itinerarios/) e contém ônibus com ambas as bandeiras da EMTU e da Viação Jacareí.
 
-- A maioria dos ônibus 
+
+
+### Tarifas
+
+#### Viação Jacareí
+
+As linhas da Viação Jacareí possuem o que é chamado de ```Linha com Seccionamento Tarifário```, isso significa dizer que, são cobrados valores diferentes para cada "cidade" (secção) de parada disponível do percurso. Esse pontos são ilustrados abaixo, e começam em Jacareí terminando em Mogi das Cruzes. É importante notar que existem diversas paradas dentro dessas secções (pontos de ônibus), o leitor porderá descer em diversos dos pontos disponíveis dentro da mesma secção tarifária, entretanto terá de pagar o valor daquela secção.
+```Por exemplo, se o leitor for descer em São Silvestre pagará um pouco menos do que se for descer em Jacareí. Por isso é interessante se programar.```
+
+![Exemplos de Seções Tarifárias](ilustracoes\onibus\SeçõesTarifariasOptimized.svg)
+
+Abaixo são listados os valores tarifários atualizados em [31/05/2021](http://www.viacaojacarei.com.br/site/images/itinerarios/8015-B_02062021.pdf)
+
+|Linha  | Seção							| Preço|
+| ----- | ------------------------------- | ------- |
+| 8015B | Jacareí a Guararema             | R$ 5,45 |
+| 8015B | Jacareí a Mogi das Cruzes       | R$ 9,85 |
+| 8015B | São Silvestre a Guararema       | R$ 4,65 |
+| 8015B | São Silvestre a Mogi das Cruzes | R$ 8,20 |
+| 8015B | Guararema a Mogi das Cruzes     | R$ 5,25 |
+
+
 ### Horários
 
 !!! Informação info
@@ -30,7 +51,7 @@ title: Ônibus
     <input type="radio" name="options" id="showNotTimeHighlight" autocomplete="off"> Não
     </label>
 
-#### Linha Jacareí via Guararema
+#### Linha Viação Jacareí via Guararema
 
 ##### :material-bus-marker: Guararema → Mogi
 
@@ -75,16 +96,23 @@ Estes são horários da ```Linha 8015B```, o ônibus said de Mogi das Cruzes com
 | Sábado                | <tt>05:10</tt>	<tt>07:00</tt>	<tt>09:00</tt>	<tt>12:00</tt>	<tt>15:00</tt>	<tt>16:30</tt>	<tt>18:00</tt> <tt>19:30</tt>	<tt>21:00</tt>	<tt>22:30</tt> | <tt>10:30</tt>	<tt>13:30</tt> |
 | Domingos e Feriados   | <tt>05:10</tt>	<tt>07:30</tt>	<tt>09:30</tt>	<tt>13:30</tt>	<tt>17:30</tt>	<tt>19:30</tt>	<tt>21:10</tt> <tt>22:40</tt> |<tt>11:30</tt>	<tt>15:30</tt>|
 
+#### Linha EMTU via Guararema
 
+``` Ainda não obtivemos informações sobre essa linha da EMTU, por enquanto, procure o Site da empresa ou o Google Maps```
 
 ### Identificando os Ônibus
 
 O destino final é localizado no letreiro frontal do veículo e logo abaixo há um segundo letreiro com identificação da tarifa e da *Via*. 
 
 
+![Identificação Frontal](ilustracoes\onibus\onibus_identificacao.png)
+
+Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 
 |Bandeira|Veículo       |
 |--------|--------------|
 |Viação Jacereí|![Bandeira Viação Jacarei](ilustracoes\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
 |EMTU|![Bandeira EMTU](ilustracoes\onibus\onibus_azul.png)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
 
+!!! Nota info
+    Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
