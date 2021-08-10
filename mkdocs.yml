@@ -14,10 +14,12 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.tracking
+    - navigation.expand
     - content.code.annotate
     - search.suggest
     - search.highlight
     - search.share
+    - toc.integrate
 docs_dir: src
 site_dir: docs
 extra:
