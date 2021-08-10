@@ -1,0 +1,18 @@
+
+tt {
+    padding-right: 2px;
+    padding-left: 2px;
+    border-radius:5px;
+}
+
+.time-avaliable {
+    background-color: #50C878;
+}
+
+.time-unavaliable {
+    background-color: #e95e5e;
+}
+
+.time-none {
+    background-color:transparent !important;
+}
