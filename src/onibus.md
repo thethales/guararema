@@ -55,14 +55,13 @@ Abaixo são listados os valores tarifários atualizados em [31/05/2021](http://w
 
 !!! Informação info
     Os dados apresentados abaixo foram atualizados em [31/05/2021](http://www.viacaojacarei.com.br/site/images/itinerarios/8015-B_02062021.pdf). Para uma versão possívelmente mais atualizada consulte o PDF disponível no site da própria Viação, através deste [link](https://www.viacaojacarei.com.br/site/itinerarios/)
-   <label>Mostrar indicação de horário ?
-    </label>
-    <label>
-    <input type="radio" name="options" id="showTimeHighlight" autocomplete="off" checked> Sim
-    </label>
-    <label>
-    <input type="radio" name="options" id="showNotTimeHighlight" autocomplete="off"> Não
-    </label>
+   
+!!! Informação info   
+    Mostrar auxílio visual de horário disponível ? [^3]
+    <label><input type="radio" name="options" id="showTimeHighlight" autocomplete="off" checked> Sim</label>
+    <label><input type="radio" name="options" id="showNotTimeHighlight" autocomplete="off"> Não</label>
+
+[^3]: Quando ativo, as horas de ônibus serão comparadas com o horário atual e marcada em vermelho <tt>01:00</tt> quando indisponíveis e em verde <tt>24:00</tt>, quando disponíveis.
 
 #### Linha Viação Jacareí via Guararema
 
