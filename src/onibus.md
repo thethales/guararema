@@ -19,6 +19,8 @@ title: Ônibus
 
 - Os itinerários oficiais da Viação Jacareí estão listados em [seu site](https://www.viacaojacarei.com.br/site/itinerarios/) e contém ônibus com ambas as bandeiras da EMTU e da Viação Jacareí.
 
+- Esse artigo não possuí vinculo com as empresas listadas mas se baseia nas informações disponibilizadas por elas em seus sites.
+
 
 
 ### :fontawesome-solid-money-bill-alt: Tarifas
@@ -127,3 +129,15 @@ Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 
 !!! Nota info
     Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
+
+
+### Atendimento ao Cliente
+
+Serviço de Atendimento ao Cliente (SAC) da Viação Jacareí e dados de contato:
+
+|Local |Contato|
+|------|--------|
+|SAC   |0800 701 05 01|
+|Site  |[https://www.viacaojacarei.com.br/](https://www.viacaojacarei.com.br/)|
+|Garangem|(12) 3931-3966|
+
