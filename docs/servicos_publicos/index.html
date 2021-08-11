@@ -122,10 +122,16 @@
       </label>
       <nav class="md-search__options" aria-label="Search">
         
+          <a href="javascript:void(0)" class="md-search__icon md-icon" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08z"/></svg>
+          </a>
+        
         <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
         </button>
       </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
       
     </form>
     <div class="md-search__output">
@@ -150,7 +156,7 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
   </div>
   <div class="md-source__repository">
-    GitHub
+    thethales/guararema
   </div>
 </a>
       </div>
@@ -174,7 +180,9 @@
                     
 
 
-<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href=".." title="Guararema - Um guia colaborativo" class="md-nav__button md-logo" aria-label="Guararema - Um guia colaborativo" data-md-component="logo">
       
@@ -192,7 +200,7 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
   </div>
   <div class="md-source__repository">
-    GitHub
+    thethales/guararema
   </div>
 </a>
     </div>
@@ -206,6 +214,29 @@
   
   
   
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" data-md-state="indeterminate" type="checkbox" id="__nav_1" checked>
+      
+      <label class="md-nav__link" for="__nav_1">
+        Apresentação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Apresentação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href=".." class="md-nav__link">
         Início
@@ -213,18 +244,21 @@
     </li>
   
 
-    
-      
-      
-      
-
+          
+            
   
   
   
     <li class="md-nav__item">
-      <a href="../onibus/" class="md-nav__link">
-        Ônibus
+      <a href="../sobre/" class="md-nav__link">
+        Sobre
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -233,6 +267,31 @@
       
       
 
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      <label class="md-nav__link" for="__nav_2">
+        Serviços Públicos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Serviços Públicos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Serviços Públicos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
   
   
     
@@ -245,12 +304,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          Serviços Públicos
+          Prefeitura
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Serviços Públicos
+        Prefeitura
       </a>
       
         
@@ -274,29 +333,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#como-solicitar-rebaixamento-de-guia" class="md-nav__link">
-    Como solicitar rebaixamento de guia ?
+  <a href="#rebaixamento-de-guia" class="md-nav__link">
+    Rebaixamento de Guia
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#como-consultar-protocolo-da-prefeitura-de-guararema" class="md-nav__link">
-    Como consultar protocolo da Prefeitura de Guararema ?
+  <a href="#consultar-protocolo" class="md-nav__link">
+    Consultar Protocolo
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#como-emitir-segunda-via-de-iptu" class="md-nav__link">
-    Como emitir segunda via de IPTU ?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#como-agendar-visita-presencial-ao-detran-de-guararema" class="md-nav__link">
-    Como agendar visita presencial ao DETRAN de Guararema ?
+  <a href="#emitir-2a-via-de-iptu" class="md-nav__link">
+    Emitir 2ª via de IPTU
   </a>
   
 </li>
@@ -313,6 +365,36 @@
     </li>
   
 
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../onibus/" class="md-nav__link">
+        Ônibus
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../detran/" class="md-nav__link">
+        Detran
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
     
       
       
@@ -321,10 +403,39 @@
   
   
   
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" data-md-state="indeterminate" type="checkbox" id="__nav_3" checked>
+      
+      <label class="md-nav__link" for="__nav_3">
+        Saúde
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Saúde" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Saúde
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
-      <a href="../sobre/" class="md-nav__link">
-        Sobre
+      <a href="../saude/vacinacao/" class="md-nav__link">
+        Vacinação
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -336,85 +447,22 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-<nav class="md-nav md-nav--secondary" aria-label="Índice">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Índice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#procedimentos-e-servicos-publicos" class="md-nav__link">
-    Procedimentos e Serviços Públicos
-  </a>
-  
-    <nav class="md-nav" aria-label="Procedimentos e Serviços Públicos">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#como-solicitar-rebaixamento-de-guia" class="md-nav__link">
-    Como solicitar rebaixamento de guia ?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#como-consultar-protocolo-da-prefeitura-de-guararema" class="md-nav__link">
-    Como consultar protocolo da Prefeitura de Guararema ?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#como-emitir-segunda-via-de-iptu" class="md-nav__link">
-    Como emitir segunda via de IPTU ?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#como-agendar-visita-presencial-ao-detran-de-guararema" class="md-nav__link">
-    Como agendar visita presencial ao DETRAN de Guararema ?
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/thethales/guararema/edit/master/docs/servicos_publicos.md" title="Editar esta página" class="md-content__button md-icon">
+                  <a href="https://github.com/thethales/guararema/edit/main/src/servicos_publicos.md" title="Editar esta página" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
-                  <h1>Serviços Públicos</h1>
+                  <h1>Prefeitura</h1>
                 
                 <h2 id="procedimentos-e-servicos-publicos">Procedimentos e Serviços Públicos<a class="headerlink" href="#procedimentos-e-servicos-publicos" title="Permanent link">⚓︎</a></h2>
 <hr />
-<h3 id="como-solicitar-rebaixamento-de-guia">Como solicitar rebaixamento de guia ?<a class="headerlink" href="#como-solicitar-rebaixamento-de-guia" title="Permanent link">⚓︎</a></h3>
+<h3 id="rebaixamento-de-guia">Rebaixamento de Guia<a class="headerlink" href="#rebaixamento-de-guia" title="Permanent link">⚓︎</a></h3>
+<p>Como solicitar rebaixamento de guia ?</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5z"/></svg></span> Data da Experiência: Julho 2021</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 11.5A2.5 2.5 0 0 1 9.5 9 2.5 2.5 0 0 1 12 6.5 2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7z"/></svg></span> <em>Aonde ?</em></p>
 <ul>
@@ -438,7 +486,8 @@
 Com as cópias dos documentos em mãos e o documento preenchido e assinado, o procedimento levará alguns minutos, e o cidadão será informado que um agente da secretaria municipal de trânsito e obras será enviado ao local para avaliação. E que o pagamento de taxa de serviço deverá ser realizado após esse procedimento.
 O cidadão irá receber um documento de protocolo. O andamento da solicitação poderá ser acompanhado por meio de portal eletrônico através deste <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/administrativo/gpro/protocolo_consulta.php">link</a>. Para saber como consultar protocolos veja: <a href="#como-consultar-protocolo-da-prefeitura-de-guararema-">Como consultar protocolo da Prefeitura de Guararema ?</a></p>
 <hr />
-<h3 id="como-consultar-protocolo-da-prefeitura-de-guararema">Como consultar protocolo da Prefeitura de Guararema ?<a class="headerlink" href="#como-consultar-protocolo-da-prefeitura-de-guararema" title="Permanent link">⚓︎</a></h3>
+<h3 id="consultar-protocolo">Consultar Protocolo<a class="headerlink" href="#consultar-protocolo" title="Permanent link">⚓︎</a></h3>
+<p>Como consultar protocolo da Prefeitura de Guararema ?</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5z"/></svg></span> Data da Experiência: Julho 2021</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 11.5A2.5 2.5 0 0 1 9.5 9 2.5 2.5 0 0 1 12 6.5 2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7z"/></svg></span> <em>Aonde?</em>
 - Portal de <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/portal/index.php">Serviços Online aos Cidadãos</a> o Siap e-GOV.</p>
@@ -459,7 +508,8 @@ O cidadão irá receber um documento de protocolo. O andamento da solicitação 
 <li>Clique em Pesquisar</li>
 </ol>
 <hr />
-<h3 id="como-emitir-segunda-via-de-iptu">Como emitir segunda via de IPTU ?<a class="headerlink" href="#como-emitir-segunda-via-de-iptu" title="Permanent link">⚓︎</a></h3>
+<h3 id="emitir-2a-via-de-iptu">Emitir 2ª via de IPTU<a class="headerlink" href="#emitir-2a-via-de-iptu" title="Permanent link">⚓︎</a></h3>
+<p>Como emitir segunda via de IPTU ?</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5z"/></svg></span> Data da Experiência: Julho 2021</p>
 <p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 11.5A2.5 2.5 0 0 1 9.5 9 2.5 2.5 0 0 1 12 6.5 2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7z"/></svg></span> <em>Aonde ?</em></p>
 <ul>
@@ -478,103 +528,6 @@ O cidadão irá receber um documento de protocolo. O andamento da solicitação 
 <p>Através do  <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/portal/index.php">Serviços Online aos Cidadãos</a>, 
 acesse este <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapegov/arrecadacao/2via/index.php">link</a>, preencha os dados e clique em consultar.</p>
 <hr />
-<h3 id="como-agendar-visita-presencial-ao-detran-de-guararema">Como agendar visita presencial ao DETRAN de Guararema ?<a class="headerlink" href="#como-agendar-visita-presencial-ao-detran-de-guararema" title="Permanent link">⚓︎</a></h3>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5z"/></svg></span> Data da Experiência</p>
-<ul>
-<li>Agosto 2021</li>
-</ul>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17H7v-2h7m3-2H7v-2h10m0-2H7V7h10m2-4H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z"/></svg></span> <em>Introdução</em></p>
-<p>Devido a Pandemia de COVID-19, o DETRAN passou a operar com horário marcado. A unidade de Guararema apesar de informar em cartazes sobre o novo modelo de atendimento, erroneamente direciona o cidadão para o site do próprio DETRAN para realizar o agendamento. Entretanto, atualmente não é possível efetuar agendamento de visita presencial através do site da instituição. Isso só pode ser feito através do <a href="https://www.poupatempo.sp.gov.br/">PoupaTempo</a>.</p>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 11.5A2.5 2.5 0 0 1 9.5 9 2.5 2.5 0 0 1 12 6.5 2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7z"/></svg></span> <em>Aonde ?</em> </p>
-<ul>
-<li>Online através do site do <a href="https://www.poupatempo.sp.gov.br/">PoupaTempo</a></li>
-</ul>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.25 3c.65 0 1.25.21 1.75.56V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.57c.5-.35 1.1-.57 1.75-.57a3 3 0 0 1 3 3c0 1.58-1.21 2.87-2.75 3h-2v1h1.24l.48.13 4.59 2.29c.82.31 1.22.92 1.22 1.83l-.03.14v.14l-1 6.75c-.06.47-.28.88-.66 1.22-.37.34-.79.5-1.26.5H10c-.55 0-1-.19-1.42-.59L2 15.84l1.05-1.07c.28-.27.64-.43 1.08-.43h.32l4.55.99V9H7a3.021 3.021 0 0 1-2.75-3 3 3 0 0 1 3-3M9 6a1.75 1.75 0 0 0-1.75-1.75A1.75 1.75 0 0 0 5.5 6c0 .88.65 1.61 1.5 1.73v.02h2V6m6 1.75v-.01c.85-.12 1.5-.85 1.5-1.74 0-.96-.78-1.74-1.75-1.74S13 5.04 13 6v1.75h2z"/></svg></span> <em>Do que precisa ?</em></p>
-<ul>
-<li>Apenas um cadastro no site do PoupaTempo, entretanto os serviços do DETRAN poderão pedir documentos a parte durante sua visita.</li>
-<li>Marcação com um dia de antecedência. Isso significa dizer, que eles não permitem o agendamento para o mesmo dia corrente. Exemplo: se hoje é Segunda-feira, as horas liberadas para agendamento são a partir de Terça-Feira.</li>
-</ul>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.5 21c-.78 0-1.46-.45-1.79-1.1L1.1 10.44 1 10a1 1 0 0 1 1-1h4.58l4.6-6.57a.997.997 0 0 1 1.65.01L17.42 9H22a1 1 0 0 1 1 1l-.04.29-2.67 9.61c-.33.65-1.01 1.1-1.79 1.1h-13M12 4.74 9 9h6l-3-4.26M12 13a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z"/></svg></span> <em>Custo</em></p>
-<ul>
-<li>Nenhum, a utilização do PoupaTempo para agendamento é gratuita.</li>
-</ul>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 8.58c.78 0 1.44.61 1.44 1.42s-.66 1.44-1.44 1.44-1.42-.66-1.42-1.44.61-1.42 1.42-1.42M13 3c3.88 0 7 3.14 7 7 0 2.8-1.63 5.19-4 6.31V21H9v-3H8c-1.11 0-2-.89-2-2v-3H4.5c-.42 0-.66-.5-.42-.81L6 9.66A7.003 7.003 0 0 1 13 3m3 7c0-.16 0-.25-.06-.39l.89-.66c.05-.04.09-.18.05-.28l-.8-1.36c-.05-.09-.19-.14-.28-.09l-.99.42c-.18-.19-.42-.33-.65-.42L14 6.19c-.03-.14-.08-.19-.22-.19h-1.59c-.1 0-.19.05-.19.19l-.14 1.03c-.23.09-.47.23-.66.42l-1.03-.42c-.09-.05-.17 0-.23.09l-.8 1.36c-.05.14-.05.24.05.28l.84.66c0 .14-.03.28-.03.39 0 .13.03.27.03.41l-.84.65c-.1.05-.1.14-.05.24l.8 1.4c.06.1.14.1.23.1l.99-.43c.23.19.42.29.7.38l.14 1.08c0 .09.09.17.19.17h1.59c.14 0 .19-.08.22-.17l.16-1.08c.23-.09.47-.19.65-.37l.99.42c.09 0 .23 0 .28-.1l.8-1.4c.04-.1 0-.19-.05-.24l-.83-.65V10z"/></svg></span> <em>Como?</em></p>
-<ol>
-<li>Crie um cadastro no <a href="https://www.poupatempo.sp.gov.br/">PoupaTempo</a> ou acesse o site com seu cadastro pré existente.</li>
-<li>No canto superior direito da tela clique no menu <code>Serviços</code> </li>
-<li>Na página que foi exibida, são mostrados vários grupos de serviços separador por nomes. Procure pelo grupo de serviços de nome <code>CNH - CARTEIRA NACIONAL DE HABILITAÇÃO</code>. </li>
-<li>Neste grupo clique no botão <code>Demais Serviços da CNH</code>. Uma lista com diversos itens será aberta. <img alt="Demais Serviços" loading="lazy" src="../ilustracoes/detran/1.png" /></li>
-<li>Nesta lista, clique no último item, chamado de <code>Outros serviços da CNH</code>. <img alt="Outros serviços da CNH" loading="lazy" src="../ilustracoes/detran/2.png" /></li>
-<li>Será mostrada uma mensagem de aviso de que existem serviços online disponíveis. Selecione ao invés, a opção de visita presencial clicando na frase <code>clique aqui</code> conforme a figura abaixo: <img alt="Mensagem de Aviso" loading="lazy" src="../ilustracoes/detran/3.png" /></li>
-<li>Será exibida uma segunda mensagem de aviso, desta vez, pedindo sua confirmação de que a visita é urgente. Clique no botão <code>Sim, Tenho Urgência</code> (Caso não possa aguardar) <img alt="Mensagem de aviso de urgência e cuidado" loading="lazy" src="../ilustracoes/detran/4.png" /></li>
-<li>Na próxima etapa, começaremos o agendamento. Para encontrar a unidade de Guararema, selecione a opção de busca por local, clicando no primeiro botão com o ícone de mapa: <img alt="Seleção de unidade DETRAN" src="../ilustracoes/detran/5.png" /></li>
-<li>Uma lista com todos os DETRANs disponíveis é carregada. Nela, procure por <code>DETRAN - Guararema</code> e clique nela.<img alt="Lista de Unidades do DETRAN" loading="lazy" src="../ilustracoes/detran/6.png" /></li>
-<li>Na próxima etapa, será pedido que escolha a data de agendamento. Selecione uma data e clique em prosseguir. <img alt="Escolha da data de agendamento" loading="lazy" src="../ilustracoes/detran/7.png" /></li>
-<li>Na próxima etapa, será pedido que escolha o horário de visita. Selecione o disponível e clique no botão de prosseguir. <img alt="Escolha da hora de visita" loading="lazy" src="../ilustracoes/detran/8.png" /></li>
-<li>Pronto seu agendamento foi realizado, a página seguinte exibida pelo PoupaTempo, contém um resumo do agendamento e observações dos documentos que precisarão ser levados para cada serviço disponível no Detran. Confirme quais são os seus.</li>
-</ol>
-<p>Os agendamentos ficam também disponíveis para visualização no aplicativo para celular. Por lá você também pode cancelar o agendamento.</p>
-<div class="admonition atenção warning">
-<p class="admonition-title">Atenção</p>
-<p>O site do PoupaTempo pode mudar layout sem prévio aviso do governo e a localização exata apresentada abaixo pode variar um pouco</p>
-</div>
-<div class="admonition localização info">
-<p class="admonition-title">Localização</p>
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.285139053991!2d-46.03340828502499!3d-23.41406478475615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdcfcc040883b9%3A0x4bee58c904be562!2sDetran.SP!5e0!3m2!1sen!2sbr!4v1628124537286!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
-<table>
-<thead>
-<tr>
-<th>Endereço</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Rua Dr. Armindo, 71, Centro - Guararema - CEP: 08900-000</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="admonition horários info">
-<p class="admonition-title">Horários</p>
-<table>
-<thead>
-<tr>
-<th>Dia</th>
-<th>Horário</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Segunda:</td>
-<td>09:00 às 17:00</td>
-</tr>
-<tr>
-<td>Terça:</td>
-<td>09:00 às 17:00</td>
-</tr>
-<tr>
-<td>Quarta:</td>
-<td>09:00 às 17:00</td>
-</tr>
-<tr>
-<td>Quinta:</td>
-<td>09:00 às 17:00</td>
-</tr>
-<tr>
-<td>Sexta:</td>
-<td>09:00 às 17:00</td>
-</tr>
-<tr>
-<td>Sabado:</td>
-<td>Não atende</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="admonition observação info">
-<p class="admonition-title">Observação</p>
-<p>Alguns serviços são atendidos em horários especificos. Confira dentro de cada serviço seu respectivo horário de atendimento. Consultando o próprio site do <a href="https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/servicos/ciretran?regiao=interiorGM">DETRAN</a></p>
-</div>
                 
                   
                 
@@ -605,7 +558,7 @@ acesse este <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapeg
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../onibus/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Ônibus" rel="prev">
+        <a href="../sobre/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Sobre" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -614,20 +567,20 @@ acesse este <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapeg
               <span class="md-footer__direction">
                 Anterior
               </span>
-              Ônibus
+              Sobre
             </div>
           </div>
         </a>
       
       
         
-        <a href="../sobre/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Sobre" rel="next">
+        <a href="../onibus/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Ônibus" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Próximo
               </span>
-              Sobre
+              Ônibus
             </div>
           </div>
           <div class="md-footer__button md-icon">
@@ -691,7 +644,7 @@ acesse este <a href="http://portal.guararema.sp.gov.br/pmguararema/websis/siapeg
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.top", "navigation.sections", "navigation.tracking", "content.code.annotate"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.top", "navigation.sections", "navigation.tracking", "navigation.expand", "navigation.indexes", "content.code.annotate", "search.suggest", "search.highlight", "search.share", "toc.integrate"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
       <script src="../assets/javascripts/bundle.2b46852b.min.js"></script>
