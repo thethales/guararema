@@ -4,13 +4,19 @@ title: Detran
 ---
 
 
-### Localização
+### Localização e Contato
 
 !!! Atenção warning
     Por conta da Pandemia, os atendimento na unidade do DETRAN de Guararema, são realizados apenas através de agendamento, através do Portal do PoupaTempo.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.285139053991!2d-46.03340828502499!3d-23.41406478475615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdcfcc040883b9%3A0x4bee58c904be562!2sDetran.SP!5e0!3m2!1sen!2sbr!4v1628637228871!5m2!1sen!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-R. Dr. Armindo, 71 - Centro, Guararema - SP, 08900-000
+
+|Dados|      |
+|-----|------|
+|Telefone| 4693-1136|
+|Endereço| R. Dr. Armindo, 71 - Centro, Guararema - SP, 08900-000|
+|Site| [https://www.detran.sp.gov.br/](https://www.detran.sp.gov.br/)|
+
 
 
 ### Agendar Visita DETRAN 

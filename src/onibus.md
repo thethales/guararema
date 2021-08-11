@@ -161,4 +161,5 @@ Serviço de Atendimento ao Cliente (SAC) da Viação Jacareí e dados de contato
 |SAC   |0800 701 05 01|
 |Site  |[https://www.viacaojacarei.com.br/](https://www.viacaojacarei.com.br/)|
 |Garagem|(12) 3931-3966|
+|Rodoviária de Guararema| 4693-7511|
 
