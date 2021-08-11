@@ -21,7 +21,7 @@ Esta é uma biblioteca construida pela comunidade para a comunidade.
 
 [Como Usar o Guia](sobre/){ .md-button }
 [Horários de Ônibus](onibus/){ .md-button }
-[Aonde Pegar Ônibus](onibus/#aonde-pegar-os-onibus){ .md-button }
+[Aonde Pegar Ônibus](onibus/#onde-pegar-os-onibus){ .md-button }
 [Agendamento DETRAN](detran/#agendar-visita-detran){ .md-button }
 [Rebaixamento de Guia](servicos_publicos/#rebaixamento-de-guia){ .md-button }
 

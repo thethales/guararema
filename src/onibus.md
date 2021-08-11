@@ -129,7 +129,7 @@ Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 !!! Nota info
     Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
 
-### :material-bus-stop-covered: Aonde Pegar os Ônibus ?
+### :material-bus-stop-covered: Onde Pegar os Ônibus ?
 
 #### :material-bus-marker: Guararema
 
