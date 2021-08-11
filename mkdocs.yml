@@ -20,7 +20,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - toc.integrate
+    
 docs_dir: src
 site_dir: docs
 extra:
@@ -64,3 +64,5 @@ nav:
     - Detran : detran.md
   - Saúde:
     - saude\vacinacao.md
+  - Utilidades:
+    - Telefones Publicos: prefeitura\telefones_publicos.md
