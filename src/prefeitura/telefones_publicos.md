@@ -7,37 +7,37 @@ title: Telefones Úteis
 
 | Local                                       | Telefone        | Localização | Site        |
 | ------------------------------------------- | --------------- | ------------|-------------|
-| Delegacia                                   | 4693-1118       | [Delegacia de Guararema](https://goo.gl/maps/hDGVNxogvxhyZWaN6)
-| Samu                                        | 192             |
-| Corpo de Bombeiros                          | 4693-5290 ou 193 |
-| Santa Casa de Misericórdia                  | 4693-8383       |
-| Polícia Militar                             | 4693-2459 ou 190 |
+| Delegacia                                   | [114693-1118](tel:114693-1118)       | [Delegacia de Guararema](https://goo.gl/maps/hDGVNxogvxhyZWaN6)
+| Samu                                        | [192](tel:192)             |
+| Corpo de Bombeiros                          | [114693-5290](tel:114693-5290) ou [193](tel:193) |
+| Santa Casa de Misericórdia                  | [114693-8383](tel:114693-8383)       |
+| Polícia Militar                             | [114693-2459](tel:114693-2459) ou [190](tel:190) |
 
 ## Telefones e Contatos Úteis
 
-| Local                                       | Telefone        | Localização | Site        |
-| ------------------------------------------- | --------------- | ------------|-------------|
-| Balcão de Empregos                          | 4693-1432 ou 4693-1717[^1] | [Secretaria Municipal da Indústria, Comércio, Turismo e Agricultura SEBRAE](https://goo.gl/maps/LtoV43p8anj3ATbi6)
-| Câmara Municipal                            | 4693-1114 ou 4693-1153      | [Câmara Municipal de Guararema](https://goo.gl/maps/bY83RbCNL7SZUvJH6)| [https://cmguararema.sp.gov.br/](https://cmguararema.sp.gov.br/)|
-| Câmeras de Monitoramento                    | 4693-8720       | 
-| Cartório                                    | 4693-1421       |
-| Ciretran                                    | 4693-1136       |
-| Conselho Tutelar                            | 4695-1918       |
-| Correios                                    | 4693-1430       |
-| CS Brasil – Vale Transporte                 | 4693-4392       |
-| CS Brasil – Transporte Público (Ônibus)     | 97365-7204      |
-| EDP Bandeirante Energia                     | 0800 721 0123   |
-| Engeluz                                     | 0800 600 1428   |
-| Fiscalização                                | 4695-2801       |
-| Fórum                                       | 4693-1124       |
-| Fundo Social de Solidariedade               | 4693-1286       |
-| Lar dos Velhinhos                           | 4693-1224       |
-| Prefeitura                                  | 4693-8000       |
-| Sabesp                                      | 4693-1962       |
-| Secretária de Trânsito                      | 4693-7415       |
-| Viação Jacareí                              | 4693-7511       |
-| Vigilância Sanitária                        | 4693-8040       |
-| Gerência de Mobilidade Urbana e Transportes | 4693-6342       |
+| Local                                       | Telefone                                                      | Localização                                                                                                      | Site                                                             |
+|---------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Balcão de Empregos                          | [4693-1432](tel:114693-1432) [4693-1717](tel:114693-1717)[^1] | [Secretaria Municipal da Indústria Comércio Turismo e Agricultura SEBRAE](https://goo.gl/maps/LtoV43p8anj3ATbi6) |                                                                  |
+| Câmara Municipal                            | [4693-1114](tel:4693-1114)  [4693-1153](tel:4693-1153)        | [Câmara Municipal de Guararema](https://goo.gl/maps/bY83RbCNL7SZUvJH6)                                           | [https://cmguararema.sp.gov.br/](https://cmguararema.sp.gov.br/) |
+| Câmeras de Monitoramento                    | [114693-8720](tel:114693-8720)                                |                                                                                                                  |                                                                  |
+| Cartório                                    | [114693-1421](tel:114693-1421)                                |                                                                                                                  |                                                                  |
+| Ciretran                                    | [114693-1136](tel:114693-1136)                                |                                                                                                                  |                                                                  |
+| Conselho Tutelar                            | [114695-1918](tel:114695-1918)                                |                                                                                                                  |                                                                  |
+| Correios                                    | [114693-1430](tel:114693-1430)                                |                                                                                                                  |                                                                  |
+| CS Brasil – Vale Transporte                 | [114693-4392](tel:114693-4392)                                |                                                                                                                  |                                                                  |
+| CS Brasil – Transporte Público (Ônibus)     | [1197365-7204](tel:1197365-7204)                              |                                                                                                                  |                                                                  |
+| EDP Bandeirante Energia                     | [08007210123](tel:08007210123)                        |                                                                                                                  |                                                                  |
+| Engeluz                                     | [08006001428](tel:08006001428)                        |                                                                                                                  |                                                                  |
+| Fiscalização                                | [114695-2801](tel:114695-2801)                                |                                                                                                                  |                                                                  |
+| Fórum                                       | [114693-1124](tel:114693-1124)                                |                                                                                                                  |                                                                  |
+| Fundo Social de Solidariedade               | [114693-1286](tel:114693-1286)                                |                                                                                                                  |                                                                  |
+| Lar dos Velhinhos                           | [114693-1224](tel:114693-1224)                                |                                                                                                                  |                                                                  |
+| Prefeitura                                  | [114693-8000](tel:114693-8000)                                |                                                                                                                  |                                                                  |
+| Sabesp                                      | [114693-1962](tel:114693-1962)                                |                                                                                                                  |                                                                  |
+| Secretária de Trânsito                      | [114693-7415](tel:114693-7415)                                |                                                                                                                  |                                                                  |
+| Viação Jacareí                              | [114693-7511](tel:114693-7511)                                |                                                                                                                  |                                                                  |
+| Vigilância Sanitária                        | [114693-8040](tel:114693-8040)                                |                                                                                                                  |                                                                  |
+| Gerência de Mobilidade Urbana e Transportes | [114693-6342](tel:114693-6342)                                |                                                                                                                  |                                                                  |
 
 
 ## Contatos de Vereadores e Câmara Municipal
