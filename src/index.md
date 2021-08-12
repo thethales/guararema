@@ -24,5 +24,5 @@ Esta é uma biblioteca construida pela comunidade para a comunidade.
 [Aonde Pegar Ônibus](onibus/#onde-pegar-os-onibus){ .md-button }
 [Agendamento DETRAN](detran/#agendar-visita-detran){ .md-button }
 [Rebaixamento de Guia](servicos_publicos/#rebaixamento-de-guia){ .md-button }
-
+[Telefones e Contatos](prefeitura/#telefones_publicos){ .md-button }
 
