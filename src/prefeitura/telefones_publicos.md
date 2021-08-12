@@ -3,7 +3,7 @@ description: Telefones Úteis da prefeitura e unidades da prefeitura de Guararem
 title: Telefones Úteis
 ---
 
-# Telefones de Emergência
+## Telefones de Emergência
 
 | Local                                       | Telefone        | Localização | Site        |
 | ------------------------------------------- | --------------- | ------------|-------------|
@@ -13,7 +13,7 @@ title: Telefones Úteis
 | Santa Casa de Misericórdia                  | 4693-8383       |
 | Polícia Militar                             | 4693-2459 ou 190 |
 
-# Telefones e Contatos Úteis
+## Telefones e Contatos Úteis
 
 | Local                                       | Telefone        | Localização | Site        |
 | ------------------------------------------- | --------------- | ------------|-------------|
@@ -40,7 +40,7 @@ title: Telefones Úteis
 | Gerência de Mobilidade Urbana e Transportes | 4693-6342       |
 
 
-# Contatos de Vereadores e Câmara Municipal
+## Contatos de Vereadores e Câmara Municipal
 
 Essa informações são de ordem publica estando disponíveis no [site](https://cmguararema.sp.gov.br/vereadores/) da câmara de Guararema. Os telefones de contato dos vereadores disponíveis publicamente são o da própria Câmara (11) 4693-1114 ou (11) 4693-1153.
 
@@ -63,7 +63,7 @@ Essa informações são de ordem publica estando disponíveis no [site](https://
 
 
 
-# Referências
+## Referências
 
 - [Prefeitura de Guararema Telefones](http://www.guararema.sp.gov.br/446/telefones+teis/)
 - [Camara de Vereadores de Guararema](https://cmguararema.sp.gov.br/vereadores/)
