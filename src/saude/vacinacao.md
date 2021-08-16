@@ -25,12 +25,15 @@ Passos de cadastro segundo a orientação do [site](http://www.guararema.sp.gov.
 
 ### Pré Requisitos
 
+!!! Importante info
+    O número e tipos de comprovantes pode variar de acordo com a categoria. Profissionais de saúde  e aposentados por invalidez poderão, por exemplo, precisar apresentar comprovantes extras. A lista completa[1^] de comprovantes aceitos para cada categoria pode ser encontrada neste [PDF](arquivos\saude\DOC OBRIG VACINACAO CONTRA A COVID_compressed.pdf)
+
 
 - Cópia de Documento com Foto e o Original (para efeito de comprovação)
+- Comprovante de endereço
+    - Segundo a Prefeitura: 
+    ```"É OBRIGATÓRIO COMPROVAR: Que a pessoa agendada é moradora de Guararema, por meio de um comprovante de endereço. O COMPROVANTE DE ENDEREÇO NOMINAL OU NÚCLEO FAMILIAR. É necessário levar original e cópia."```
 
-É OBRIGATÓRIO COMPROVAR:
- 
-- Que a pessoa agendada é moradora de Guararema, por meio de um comprovante de endereço. O COMPROVANTE DE ENDEREÇO NOMINAL OU NÚCLEO FAMILIAR. É necessário levar original e cópia.
 
 ## Acompanhamento
 
@@ -48,3 +51,6 @@ O Local da sua vacinação é informado diretamente no portal [Vacina Digital](h
 - CEVAC - CENTRAL DE VACINAÇÃO - RUA DR ARMINDO, 567 - NOGUEIRA
     - Mesmo prédio da Escola Profissionalizante
     - Possui acesso para pedestres e para carros. A vacinação pode ser feita por meio de Drive-Thru.
+
+
+[1^]: Originalmente disponibilizada pela Prefeitura neste [link](http://www.guararema.sp.gov.br/arquivo/editor/file/DOCUMENTACAO%20OBRIGATORIO%20PARA%20VACINACAO%20CONTRA%20A%20COVID.pdf)
