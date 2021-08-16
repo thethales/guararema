@@ -3,7 +3,7 @@ description: Procedimentos e solução de dúvidas sobre Ciretran/Detran de Guar
 title: Detran
 ---
 
-
+Detran / Ciretran
 ### Localização e Contato
 
 !!! Atenção warning
@@ -87,3 +87,40 @@ Os agendamentos ficam também disponíveis para visualização no aplicativo par
 
 !!! Observação info 
     Alguns serviços são atendidos em horários especificos. Confira dentro de cada serviço seu respectivo horário de atendimento. Consultando o próprio site do [DETRAN](https://www.detran.sp.gov.br/wps/portal
+
+
+# Primeira CNH
+
+Para obter a primeira Carteira Nacional de Habilitação (CNH) o Guararemense precisará:
+
+1. Fazer os exames médicos
+    - Exame Psicológico
+    - Exame Médico
+2. Fazer o Curso Teórico de Trânsito para Condutores (CFC)
+3. Fazer o Exame Teórico e ser aprovado
+4. Fazer o Curso Prático em uma Auto-escola
+5. Fazer o Exame prático e ser aprovado
+
+Os melhores lugares para se informar sobre o procedimento correto e mais atualizado para obter a CNH são o CFC, as Auto-escolas de Guararema e o CIRETRAN. 
+Mas antes disso, é importante que o cidadão esteja ciente que para iniciar o processo de habilitação da primeira CNH, não é necessário entrada em uma Auto-escola.
+O próprio cidadão poderá dar início a esse processo através do portal [e-cnhsp](https://www.e-cnhsp.sp.gov.br/gefor/) do Governo do Estado de São Paulo que oferece um Pré Cadastro.
+
+
+Ao realizar o pré-cadastro no portal, os exames poderão ser agendados após confirmação do cadastro em qualquer unidade do PoupaTempo ou Detran.
+Com os exames prontos, é possível dar entrada no Curso de CFC e após sua conclusão e realização da prova, entrada no curso prático da Auto-escola. 
+
+
+!!! Nota info
+    É importante notar que a CNH é um processo custoso e todas as etapas terão custos. Os exames são pagos diretamente aos consultórios, assim como o CFC para a Escola Teórica, e as aulas Práticas para a Auto-Escola. Além disso, há um custo para os exames teórico e prático, separadamente. É importante levantar os orçamentos com todas essas entidades antes de iniciar o procedimento. Algumas Auto-Escolas, oferecem pacotes contendo todos os itens acima, entretanto, irão cobrar taxas extras para remarcação de exames, aulas de reposição, entre outros.
+    
+Cada etapa irá gerar uma entrada de documento junto ao DETRAN e possuirá uma validade, o que inclui, o curso teórico, exames e o prático. Em situações normais o cidadão possuí 12 meses para finalizar o processo da CNH (todas as suas etapas) mas devido à mudanças contínuas de prazos por conta da pandemia é importante procurar orientação sobre os prazos na Auto-Escola.
+
+Caso opte por efetuar seu próprio cadastro e agendamento de exames no [e-cnhsp](https://www.e-cnhsp.sp.gov.br/gefor/), é importante marcar a opção *Pretende exercer atividade remunerada ?*como *SIM*, pois conforme a orientação do próprio site[^2] isso irá gerar a opção de agendamento de exame psicológico, requerida para etapas futuras da CNH.
+
+![](ilustracoes\detran\11.png)
+
+!!! Sugestão info
+    Para tomar um decisão bem informada procure orientação no [CFC de Guararema](https://goo.gl/maps/21dRS7n7yuwD81Lz7), por ser a única empresa do ramo na cidade, poderá oferecer uma opnião mais imparcial e orientações sobre os procedimentos envolvidos.
+
+
+[^2]: Indicada pelo texto de ajuda da própria questão: ```Para exercer atividades remuneradas é necessária a realização do exame psicológico.```
