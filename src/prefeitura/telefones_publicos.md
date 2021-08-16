@@ -13,12 +13,27 @@ title: Telefones Úteis
 | Santa Casa de Misericórdia                  | [114693-8383](tel:114693-8383)       |
 | Polícia Militar                             | [114693-2459](tel:114693-2459) ou [190](tel:190) |
 
+
+## Telefones de Saúde
+
+| Local                                       | Telefone        | Localização | Site        |
+| ------------------------------------------- | --------------- | ------------|-------------|
+| CAPS I (Centro de Atendimento Psicológico) | [114695-2312](tel:114695-2312)| [R. Dona Laurinda, 512 - Centro](https://goo.gl/maps/sHPZFC7uW7RXyjmW6)|
+| Centro de Controle de Zoonoses | [114693-3966](tel:114693-3966) | |
+| CESAP  (Centro de Especialidades de Saúde e Apoio a População)|[114693-3558](tel:4693-3558)| [R. São Vicente de Paula, 110 - Centro](https://goo.gl/maps/K3Nr91WzP2SZZXRt9)||
+| Secretária de Saúde | [114693-8040](tel:114693-8040)| [R. Dr. Silva Pinto, 240 - Centro](https://goo.gl/maps/3BscyWyinNwQ9pL16) | |
+| Transporte Secretaria de Saúde | [114693-8059](tel:4693-8059)| | |
+| Unidade Básica - Jd. Dulce (UBS Guiomar Franco da Cunha) (| [114693-4693](tel:4693-4693) | [R. Pedro Alvares Cabral, 36 - Jardim Dulce](https://goo.gl/maps/w7m7JvQGsyn4Tfbv5) |
+| Unidade Básica - Lambari  (UBS Benedicto Antonio Mariano) | [114693-3448](tel:4693-3448) | [Av. Francisca Lerário, 955 - Bairro Industrial](https://goo.gl/maps/zkAfZfWSWNGWoFRK6)|
+| Centro Atendimento no combate ao Covid-19| [114693-5506](tel:114693-5506)[^2] | [R. Dr. Armindo, 567 - Centro](https://goo.gl/maps/b3vTnjBrrGqehbq47) | [coronavirus.guararema.sp.gov.br](https://coronavirus.guararema.sp.gov.br/)|
+
+
 ## Telefones e Contatos Úteis
 
-| Local                                       | Telefone                                                      | Localização                                                                                                      | Site                                                             |
-|---------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Local                                       | Telefone                   | Localização                | Site                          |
+|---------------------------------------------|----------------------------|----------------------------|-------------------------------|
 | Balcão de Empregos                          | [4693-1432](tel:114693-1432) [4693-1717](tel:114693-1717)[^1] | [Secretaria Municipal da Indústria Comércio Turismo e Agricultura SEBRAE](https://goo.gl/maps/LtoV43p8anj3ATbi6) |                                                                  |
-| Câmara Municipal                            | [4693-1114](tel:4693-1114)  [4693-1153](tel:4693-1153)        | [Câmara Municipal de Guararema](https://goo.gl/maps/bY83RbCNL7SZUvJH6)                                           | [https://cmguararema.sp.gov.br/](https://cmguararema.sp.gov.br/) |
+| Câmara Municipal                            | [4693-1114](tel:4693-1114)  [4693-1153](tel:4693-1153)        | [Câmara Municipal de Guararema](https://goo.gl/maps/bY83RbCNL7SZUvJH6)                                           | [https://cmguararema.sp.gov.br/](cmguararema.sp.gov.br/) |
 | Câmeras de Monitoramento                    | [114693-8720](tel:114693-8720)                                |                                                                                                                  |                                                                  |
 | Cartório                                    | [114693-1421](tel:114693-1421)                                |                                                                                                                  |                                                                  |
 | Ciretran                                    | [114693-1136](tel:114693-1136)                                |                                                                                                                  |                                                                  |
@@ -34,7 +49,8 @@ title: Telefones Úteis
 | Lar dos Velhinhos                           | [114693-1224](tel:114693-1224)                                |                                                                                                                  |                                                                  |
 | Prefeitura                                  | [114693-8000](tel:114693-8000)                                |                                                                                                                  |                                                                  |
 | Sabesp                                      | [114693-1962](tel:114693-1962)                                |                                                                                                                  |                                                                  |
-| Secretária de Trânsito                      | [114693-7415](tel:114693-7415)                                |                                                                                                                  |                                                                  |
+| Secretária de Trânsito                      | [114693-7415](tel:114693-7415)                                
+|                                                                                                                  |                                                                  |
 | Viação Jacareí                              | [114693-7511](tel:114693-7511)                                |                                                                                                                  |                                                                  |
 | Vigilância Sanitária                        | [114693-8040](tel:114693-8040)                                |                                                                                                                  |                                                                  |
 | Gerência de Mobilidade Urbana e Transportes | [114693-6342](tel:114693-6342)                                |                                                                                                                  |                                                                  |
@@ -67,4 +83,5 @@ Essa informações são de ordem publica estando disponíveis no [site](https://
 
 - [Prefeitura de Guararema Telefones](http://www.guararema.sp.gov.br/446/telefones+teis/)
 - [Camara de Vereadores de Guararema](https://cmguararema.sp.gov.br/vereadores/)
-[^1]: [Fonte](https://www.leiaogazeta.com.br/guararema-tem-33-vagas-de-emprego-disponiveis/) 
+[^1]: Fonte: LeiaoGazeta, Notícia, disponível em: [Guararema Tem 33 Vagas Disponíveis](https://www.leiaogazeta.com.br/guararema-tem-33-vagas-de-emprego-disponiveis/) 
+[^2]: Fonte: Secretaria de Saúde Guararema, Notícia, disponível em: [Centro dedicado ao atendimento no combate ao convid-19](http://www.guararema.sp.gov.br/35/secretarias/sade/noticias/3341/guararema+tem+centro+dedicado+de+atendimento+no+combate+ao+covid-19)
