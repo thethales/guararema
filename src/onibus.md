@@ -13,7 +13,7 @@ title: Ônibus
 ## :material-bus-stop: Guararema → Mogi das Cruzes
 
 
-![Ilustrações Linhas Municipais](ilustracoes\onibus\Linhas_optmized.svg)
+![Ilustrações Linhas Municipais](arquivos\onibus\Linhas_optmized.svg)
 
 - A linha de ônibus para Mogi das Cruzes é operada pela EMTU e pela Viação Jacareí, entretanto é gerenciada pela Viação Jacareí.
 
@@ -38,7 +38,7 @@ As linhas da Viação Jacareí possuem o que é chamado de ```Linha com Secciona
 
 [^1]: Por exemplo, se o leitor for descer em São Silvestre pagará um pouco menos do que se for descer em Jacareí. Por isso é interessante se programar, a fim de pagar a tarifa necessária para cehgar no seu ponto.
 
-![Exemplos de Seções Tarifárias](ilustracoes\onibus\SeçõesTarifariasOptimized.svg)
+![Exemplos de Seções Tarifárias](arquivos\onibus\SeçõesTarifariasOptimized.svg)
 
 Abaixo são listados os valores tarifários atualizados em [31/05/2021](http://www.viacaojacarei.com.br/site/images/itinerarios/8015-B_02062021.pdf)
 
@@ -117,14 +117,14 @@ Estes são horários da ```Linha 8015B```, o ônibus said de Mogi das Cruzes com
 O destino final é localizado no letreiro frontal do veículo e logo abaixo há um segundo letreiro com identificação da tarifa e da *Via*. 
 
 
-![Identificação Frontal](ilustracoes\onibus\OnibusFrenteIlustração_optmized.svg)
+![Identificação Frontal](arquivos\onibus\OnibusFrenteIlustração_optmized.svg)
 
 Abaixo são relacionadas imagens ilustrativas de alguns dos veículos em uso:
 
 |Bandeira|Veículo       |
 |--------|--------------|
-|Viação Jacareí|![Bandeira Viação Jacarei](ilustracoes\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
-|EMTU|![Bandeira EMTU](ilustracoes\onibus\onibus_azul.jpeg)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
+|Viação Jacareí|![Bandeira Viação Jacarei](arquivos\onibus\onibus_verde.jpg)Foto por [José Augusto de Souza Oliveira](https://onibusbrasil.com/joseaugustomrzezao/5465078)|
+|EMTU|![Bandeira EMTU](arquivos\onibus\onibus_azul.jpeg)Foto por [Viação Jacareí](https://www.viacaojacarei.com.br/)|
 
 !!! Nota info
     Essas imagens são ilustrativas, sempre se atente aos letreiros e marcações dos ônibus e em caso de dúvidas pergunte ao Motorista/Cobrador. As empresas de ônibus trabalham com variados modelos de carros, portanto inevitavelmente poderá haver variação de cor e modelo.
