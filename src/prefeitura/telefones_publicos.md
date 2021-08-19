@@ -79,7 +79,6 @@ Essa informações são de ordem publica estando disponíveis no [site](https://
 
 
 
-
 ## Referências
 
 - [Prefeitura de Guararema Telefones](http://www.guararema.sp.gov.br/446/telefones+teis/)
