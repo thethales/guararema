@@ -22,7 +22,7 @@ Basta abrir um novo aqui [Issue](https://github.com/thethales/guararema/issues/n
 O portal é um site estático baseado no [MKDocs](https://www.mkdocs.org/), abaixo é listada uma breve relação dos diretórios e sua organização:
 
 - ```src```: Contém os arquivos e artigos base para construção do site
-    - ```_img, _javascript, _stylesheet```: Diretórios reservados para os componentes extras de customização do HTML estático final
+    - ```img, javascript, stylesheet```: Diretórios reservados para os componentes extras de customização do HTML estático final
 - ```arquivos```: Contém subdiretórios para cada anexo e apêndice dos artigos
 
 # O Guia
