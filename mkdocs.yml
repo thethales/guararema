@@ -8,8 +8,8 @@ site_author: thethales
 theme: 
   language: pt
   name: material
-  logo: img/logo_white.png
-  favicon: img/favicon.ico
+  logo: _img/logo_white.png
+  favicon: _img/favicon.ico
   features:
     - navigation.top
     - navigation.sections
@@ -36,9 +36,9 @@ extra:
     title: Consentimento de Cookies 🍪
     description: Utilizamos cookies para reconhecer suas repetidas visitas e preferências, bem como para medir a eficácia de nossa documentação e se os usuários encontram o que eles estão procurando. Com seu consentimento, você está nos ajudando a melhorar nossa documentação.
 extra_javascript:
-  - javascript/extra.js
+  - _javascript/extra.js
 extra_css:
-  - stylesheet/extra.css
+  - _stylesheet/extra.css
 copyright: GNU GENERAL PUBLIC LICENSE
 markdown_extensions:
   - meta

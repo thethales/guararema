@@ -5,7 +5,7 @@ disqus: ""
 ---
 # Introdução
 
-![Apresentação](img/capa.png)
+![Apresentação](_img/capa.png)
 
 Este é um experimento com o intuito de criar um guia colaborativo sobre como fazer as coisas acontecerem na cidade. 
 Seja encontrando um prestador de serviço ou aquela loja com aquele item super especifico. 
