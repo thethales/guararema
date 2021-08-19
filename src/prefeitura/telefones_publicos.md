@@ -54,6 +54,7 @@ title: Telefones Úteis
 | Viação Jacareí                              | [114693-7511](tel:114693-7511)                                |                                                                                                                  |                                                                  |
 | Vigilância Sanitária                        | [114693-8040](tel:114693-8040)                                |                                                                                                                  |                                                                  |
 | Gerência de Mobilidade Urbana e Transportes | [114693-6342](tel:114693-6342)                                |                                                                                                                  |                                                                  |
+| Defesa Civil e Coordenação de Fiscalização | [114695-2801](tel:114695-2801) | [R. Lucas N Garcês, 350 - Centro, Guararema - SP, 08900-000](https://goo.gl/maps/fWpUus4mXSMq5byo6)||
 
 
 ## Contatos de Vereadores e Câmara Municipal
