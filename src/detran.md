@@ -51,14 +51,14 @@ Devido a Pandemia de COVID-19, o DETRAN passou a operar com horário marcado. A 
 1. Crie um cadastro no [PoupaTempo](https://www.poupatempo.sp.gov.br/) ou acesse o site com seu cadastro pré existente.
 2. No canto superior direito da tela clique no menu ```Serviços``` 
 3. Na página que foi exibida, são mostrados vários grupos de serviços separador por nomes. Procure pelo grupo de serviços de nome ```CNH - CARTEIRA NACIONAL DE HABILITAÇÃO```. 
-4. Neste grupo clique no botão ```Demais Serviços da CNH```. Uma lista com diversos itens será aberta. ![Demais Serviços](ilustracoes\detran\1.png){ loading=lazy }
-5. Nesta lista, clique no último item, chamado de ```Outros serviços da CNH```. ![Outros serviços da CNH](ilustracoes\detran\2.png){ loading=lazy }
-6. Será mostrada uma mensagem de aviso de que existem serviços online disponíveis. Selecione ao invés, a opção de visita presencial clicando na frase ```clique aqui``` conforme a figura abaixo: ![Mensagem de Aviso](ilustracoes\detran\3.png){ loading=lazy }
-7. Será exibida uma segunda mensagem de aviso, desta vez, pedindo sua confirmação de que a visita é urgente. Clique no botão ```Sim, Tenho Urgência``` (Caso não possa aguardar) ![Mensagem de aviso de urgência e cuidado](ilustracoes\detran\4.png){ loading=lazy }
-8. Na próxima etapa, começaremos o agendamento. Para encontrar a unidade de Guararema, selecione a opção de busca por local, clicando no primeiro botão com o ícone de mapa: ![Seleção de unidade DETRAN](ilustracoes\detran\5.png)
-9. Uma lista com todos os DETRANs disponíveis é carregada. Nela, procure por ```DETRAN - Guararema``` e clique nela.![Lista de Unidades do DETRAN](ilustracoes\detran\6.png){ loading=lazy }
-10. Na próxima etapa, será pedido que escolha a data de agendamento. Selecione uma data e clique em prosseguir. ![Escolha da data de agendamento](ilustracoes\detran\7.png){ loading=lazy }
-11. Na próxima etapa, será pedido que escolha o horário de visita. Selecione o disponível e clique no botão de prosseguir. ![Escolha da hora de visita](ilustracoes\detran\8.png){ loading=lazy }
+4. Neste grupo clique no botão ```Demais Serviços da CNH```. Uma lista com diversos itens será aberta. ![Demais Serviços](arquivos\detran\1.png){ loading=lazy }
+5. Nesta lista, clique no último item, chamado de ```Outros serviços da CNH```. ![Outros serviços da CNH](arquivos\detran\2.png){ loading=lazy }
+6. Será mostrada uma mensagem de aviso de que existem serviços online disponíveis. Selecione ao invés, a opção de visita presencial clicando na frase ```clique aqui``` conforme a figura abaixo: ![Mensagem de Aviso](arquivos\detran\3.png){ loading=lazy }
+7. Será exibida uma segunda mensagem de aviso, desta vez, pedindo sua confirmação de que a visita é urgente. Clique no botão ```Sim, Tenho Urgência``` (Caso não possa aguardar) ![Mensagem de aviso de urgência e cuidado](arquivos\detran\4.png){ loading=lazy }
+8. Na próxima etapa, começaremos o agendamento. Para encontrar a unidade de Guararema, selecione a opção de busca por local, clicando no primeiro botão com o ícone de mapa: ![Seleção de unidade DETRAN](arquivos\detran\5.png)
+9. Uma lista com todos os DETRANs disponíveis é carregada. Nela, procure por ```DETRAN - Guararema``` e clique nela.![Lista de Unidades do DETRAN](arquivos\detran\6.png){ loading=lazy }
+10. Na próxima etapa, será pedido que escolha a data de agendamento. Selecione uma data e clique em prosseguir. ![Escolha da data de agendamento](arquivos\detran\7.png){ loading=lazy }
+11. Na próxima etapa, será pedido que escolha o horário de visita. Selecione o disponível e clique no botão de prosseguir. ![Escolha da hora de visita](arquivos\detran\8.png){ loading=lazy }
 12. Pronto seu agendamento foi realizado, a página seguinte exibida pelo PoupaTempo, contém um resumo do agendamento e observações dos documentos que precisarão ser levados para cada serviço disponível no Detran. Confirme quais são os seus.
 
 Os agendamentos ficam também disponíveis para visualização no aplicativo para celular. Por lá você também pode cancelar o agendamento.
@@ -117,7 +117,7 @@ Cada etapa irá gerar uma entrada de documento junto ao DETRAN e possuirá uma v
 
 Caso opte por efetuar seu próprio cadastro e agendamento de exames no [e-cnhsp](https://www.e-cnhsp.sp.gov.br/gefor/), é importante marcar a opção *Pretende exercer atividade remunerada ?*como *SIM*, pois conforme a orientação do próprio site[^2] isso irá gerar a opção de agendamento de exame psicológico, requerida para etapas futuras da CNH.
 
-![](ilustracoes\detran\11.png)
+![](arquivos\detran\11.png)
 
 !!! Sugestão info
     Para tomar um decisão bem informada procure orientação no [CFC de Guararema](https://goo.gl/maps/21dRS7n7yuwD81Lz7), por ser a única empresa do ramo na cidade, poderá oferecer uma opnião mais imparcial e orientações sobre os procedimentos envolvidos.
