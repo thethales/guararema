@@ -8,6 +8,7 @@ site_author: thethales
 theme: 
   language: pt
   name: material
+  custom_dir: overrides
   logo: img/logo_white.png
   favicon: img/favicon.ico
   features:
