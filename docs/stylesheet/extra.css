@@ -22,3 +22,8 @@ tt {
 .md-button{
     margin-bottom: 4px;
 }
+
+.btn-shortcut:hover {
+    opacity: 0.7;
+
+}
