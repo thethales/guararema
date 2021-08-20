@@ -28,6 +28,8 @@ title: ONGs - Entidades sem fins lucrativos
 
 #### Como acompanhar o trabalho ?
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kCArCx2K8ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Consulte a página do [Facebook](https://www.facebook.com/sejafelizidadeguararema/) para uma olhar nas atividades diárias ou seu [site](https://www.sejafeliz.org.br/) para saber mais.
 
 #### Como contribuir ?
