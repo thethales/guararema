@@ -4,6 +4,7 @@ title: Início
 disqus: ""
 ---
 
+
 ![Apresentação](img/capa.png)
 
 Este é um experimento com o intuito de criar um guia colaborativo sobre como fazer as coisas acontecerem na cidade. 
