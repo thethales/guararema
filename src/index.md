@@ -1,5 +1,5 @@
 ---
-description: Um guia colaborativo sobre como fazer e contrar as coisas em Guararema São Paulo
+description: Um guia colaborativo sobre como fazer e encontrar as coisas em Guararema São Paulo
 title: Início
 disqus: ""
 ---
