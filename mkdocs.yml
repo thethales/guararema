@@ -24,6 +24,9 @@ theme:
 docs_dir: src
 site_dir: docs
 extra:
+  analytics:
+    provider: google
+    property: G-WKJSY3ME1K
   disqus: guararema-um-guia-colaborativo
   social:
     - icon: fontawesome/brands/twitter
