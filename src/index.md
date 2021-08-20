@@ -4,6 +4,11 @@ title: Início
 disqus: ""
 ---
 
+<meta property="og:image" content="img/capa.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="350">
+<meta property="og:image:height" content="200">
+
 ![Apresentação](img/capa.png)
 
 Este é um experimento com o intuito de criar um guia colaborativo sobre como fazer as coisas acontecerem na cidade. 
