@@ -6,6 +6,8 @@
     {% elif page and page.title and not page.is_homepage %}
         {% set title = title ~ " - " ~ page.title | striptags %}
     {% endif %}
+
+    <!--- Social Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="https://thethales.github.io/guararema" />
     <meta name="twitter:creator" content="@umThalesAqui" />
@@ -23,5 +25,14 @@
     <meta property="og:image:height" content="200">
 
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WKJSY3ME1K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-WKJSY3ME1K');
+    </script>
 {% endblock %}
 
