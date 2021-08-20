@@ -62,7 +62,9 @@ nav:
     - Prefeitura: servicos_publicos.md
     - Ônibus: onibus.md
     - Detran : detran.md
+    - ONGs: organizacoes.md
   - Saúde:
     - saude\vacinacao.md
   - Utilidades:
     - Telefones Públicos: prefeitura\telefones_publicos.md
+
