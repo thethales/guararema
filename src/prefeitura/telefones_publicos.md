@@ -26,7 +26,7 @@ title: Telefones Úteis
 | Unidade Básica - Jd. Dulce (UBS Guiomar Franco da Cunha) (| [114693-4693](tel:4693-4693) | [R. Pedro Alvares Cabral, 36 - Jardim Dulce](https://goo.gl/maps/w7m7JvQGsyn4Tfbv5) |
 | Unidade Básica - Lambari  (UBS Benedicto Antonio Mariano) | [114693-3448](tel:4693-3448) | [Av. Francisca Lerário, 955 - Bairro Industrial](https://goo.gl/maps/zkAfZfWSWNGWoFRK6)|
 | Centro Atendimento no combate ao Covid-19| [114693-5506](tel:114693-5506)[^2] | [R. Dr. Armindo, 567 - Centro](https://goo.gl/maps/b3vTnjBrrGqehbq47) | [coronavirus.guararema.sp.gov.br](https://coronavirus.guararema.sp.gov.br/)|
-
+| CEMAPA - Centro de Manejo de Populações Animais | [ 11 4693-3966](tel:1146933966) | [Est. Mun. Romeu Tanganelli - Nogueira](https://goo.gl/maps/ev7UZwjDLdrSPtNr6) ||
 
 ## Telefones e Contatos Úteis
 
