@@ -8,10 +8,10 @@ title: Animais
 
 Esta página contém informações relacionadas ao cuidado de PETs e Animais em Guararema, como entidades sem fins lucrativos e estabelecimentos relacionados.
 
-## CEMAP - Centro de Manejo de Populações Animais
+## CEMAPA - Centro de Manejo de Populações Animais
 
 
-### O que é o CEMAP ?
+### O que é o CEMAPA ?
 
 
 Uma entidade sem fins lucrativos mantida por voluntários que auxilia no manejo da população de animais de rua da cidade de Guararema.
@@ -20,7 +20,7 @@ Uma entidade sem fins lucrativos mantida por voluntários que auxilia no manejo 
 
 ### Localização e Contato
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.374641292456!2d-45.994537784593525!3d-23.446947084739783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdc53b060a4e89%3A0x95ae837d380a5098!2sCEMAPA%20-%20Centro%20de%20Manejo%20de%20Popula%C3%A7%C3%B5es%20Animais!5e0!3m2!1sen!2sbr!4v1630158052400!5m2!1sen!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.374641292456!2d-45.994537784593525!3d-23.446947084739783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cdc53b060a4e89%3A0x95ae837d380a5098!2sCEMAPAA%20-%20Centro%20de%20Manejo%20de%20Popula%C3%A7%C3%B5es%20Animais!5e0!3m2!1sen!2sbr!4v1630158052400!5m2!1sen!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 | | |
 |--|--|
