@@ -19,6 +19,7 @@ Esta é uma biblioteca construida pela comunidade para a comunidade.
 <a href="detran"><img alt="Detran" class="btn-shortcut" src="img/icons/detran.png"></a>
 <a href="onibus"><img alt="Horários de Ônibus" class="btn-shortcut" src="img/icons/onibus.png"></a>
 <a href="saude/vacinacao"><img alt="Saúde" class="btn-shortcut" src="img/icons/saude.png"></a>
+<a href="saude/animais"><img alt="Animais & Pets" class="btn-shortcut" src="img/icons/animais.png"></a>
 
 
 
