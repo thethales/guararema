@@ -47,7 +47,8 @@ Para uma lista detalhada e informações acesse á pagina explicativa do site da
 
 ![Ampara](arquivos\organizacoes\ampara.jpg)
 
-
+Associação de Munícipes Protetores de Animais de Rua e Abandonados
+Fundada em 2003[^2]
 #### No que atuam ?
 
 - A AMPARA é um grupo de voluntários que fornece ajuda aos animais abandonados. 
@@ -73,3 +74,4 @@ Agradecemos e precisamos acreditar que é a união deste grupo que faz a força.
 
 
 [^1]: Publicação original disponível no Facebook da Instituição, [aqui](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.om%2Famparaguararema%2Fposts%2F842632829177415)
+[^2]: Fonte [Ampara Facebook](https://www.facebook.com/amparaguararema/about/?ref=page_internal) consultada em 2021-08-27
