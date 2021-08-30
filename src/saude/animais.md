@@ -52,4 +52,4 @@ Os bichinhos já são castrados, vermifugados e *chipados*[^1]
 
 
 
-[^1]: Dotados de um implante subcutâneo como registro de identificação individual do animal, que garante segurançar e rastreabilidade no caso de perda do animal
+[^1]: Dotados de um implante subcutâneo como registro de identificação individual do animal, que garante segurança e rastreabilidade no caso de perda do animal
